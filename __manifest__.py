@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Odoo 12 Rest Api (Json)",
+    'name': "Odoo 12 Rest Api",
 
     'summary': """
         This module to akses odoo via rest api""",
