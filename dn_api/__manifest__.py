@@ -3,12 +3,13 @@
     'name': "Odoo 12 Rest Api",
 
     'summary': """
-        This module to akses odoo via rest api""",
+        This module to akses odoo via rest api with dynamic concept""",
 
     'description': """
         1) Open odoo.conf
         2) Add 'dbfilter = dbname'.
         3) Restart odoo service.
+        4) Test api with tools (ex: postman/swagger).
     """,
 
     'author': "R4Y Jr",
@@ -36,5 +37,6 @@
     'demo': [
         'demo/demo.xml',
     ],
+    'license': 'OPL-1',
     'application': True,
 }
