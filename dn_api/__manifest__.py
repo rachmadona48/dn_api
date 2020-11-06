@@ -6,6 +6,7 @@
         This module to akses odoo via rest api with dynamic concept""",
 
     'description': """
+        Module to integration odoo with other system, to using this module you bust be setting in odoo.conf:
         1) Open odoo.conf
         2) Add 'dbfilter = dbname'.
         3) Restart odoo service.
