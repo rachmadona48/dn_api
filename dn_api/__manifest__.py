@@ -14,7 +14,7 @@
         4) Test api with tools (ex: postman/swagger).
     """,
 
-    'author': "R4Y Jr",
+    'author': "NRA",
     'website': "-",
 
     # Categories can be used to filter modules in modules listing
@@ -24,7 +24,7 @@
     'price': 100,
     'currency': 'EUR',
     'version': '12.0.0.1',
-    'support': 'rayci232@gmail.com',
+    'support': 'nra.junior26@gmail.com',
     'images': ['images/login1.PNG'],
 
     # any module necessary for this one to work correctly
