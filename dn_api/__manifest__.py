@@ -12,6 +12,10 @@
         2) Add 'dbfilter = dbname'.
         3) Restart odoo service.
         4) Test api with tools (ex: postman/swagger).
+
+    Any questions?
+    Want to test this module?
+    Email me: nra.junior26@gmail.com 
     """,
 
     'author': "NRA",
